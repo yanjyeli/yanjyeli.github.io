@@ -33,6 +33,8 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 [Xue, Y., Huang, H., Wang, Y., & Li, Y. (2018). Theory and Practice of Safety Risk Assessment for Highway Tunnel Engineering. China Communications Press Co., Ltd.]()
+[Xue, Y., & Li, Y. (2018). Construction device and method for waterproof layer of mountain tunnel lining (China Patent No. CN 105736020 B). China National Intellectual Property Administration.]()
+
 
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
