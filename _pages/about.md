@@ -34,7 +34,15 @@ My research interest includes neural machine translation and computer vision. I 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 [Xue, Y., Huang, H., Wang, Y., & Li, Y. (2018). Theory and Practice of Safety Risk Assessment for Highway Tunnel Engineering. China Communications Press Co., Ltd.]()
 [Xue, Y., & Li, Y. (2018). Construction device and method for waterproof layer of mountain tunnel lining (China Patent No. CN 105736020 B). China National Intellectual Property Administration.]()
-
+[Li, X., Xue, Y., Li, Y., & Gao, J. (2017). Web-based construction safety risk assessment platform system for bridge, tunnel and slope engineering (V1.0) [Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2017SR309309.]()
+[Li, X., Xue, Y., Li, Y., Zhao, F., & Yang, R. (2017). Web-based expert questionnaire system (V1.0) [Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2017SR311052.]()
+[Li, X., Xue, Y., Huang, H., & Li, Y. (2017). Web-based safety risk visualization system for tunnel and slope engineering during construction period (V1.0) [Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2017SR292683.]()
+[Li, X., Xue, Y., Li, Y., & Zhang, S. (2017). Web-based safety risk assessment platform system for preliminary design of tunnel engineering (V1.0) [Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2017SR304540.]()
+[Fu, X., Xue, Y., & Li, Y. (2017). A Study on Web-Based Tunnel Construction Risk Visualizations. Modern Tunnelling Technology, 54(1): 160-167.]()
+[Gao, J., Xue, Y., & Li, Y. (2017). Indexes selecting of tunnel deformation prediction using support vector machine. In ISRM Young Scholars Symposium on Rock Mechanics (pp. ISRM-YSS). ISRM.]()
+[Li, Y., Xue, Y., & Jiao, J. (2016). Indexes sifting of rockburst prediction using soft science technology. In ISRM EUROCK (pp. ISRM-EUROCK). ISRM.]()
+[Li, Y., & Xue, Y. (2016). Evaluation of rockburst risk based on modified Delphi method. 6th Asian-Pacific Symposium on Structural Reliability and its Applications (APSSRA2016), 552-558.]()
+[Li, Y., Xue, Y., Yue, L. & Chen, B. (2015). Displacement Prediction of Deep Foundation Pit Based on Genetic Algorithms and BP Neural Network. Chinese Journal of Underground Space and Engineering, 1(S2):741-749.]()
 
 
 **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
