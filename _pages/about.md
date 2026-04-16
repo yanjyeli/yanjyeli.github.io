@@ -32,6 +32,14 @@ My research interest includes neural machine translation and computer vision. I 
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+
+**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
 [Xue, Y., Huang, H., Wang, Y., & Li, Y. (2018). Theory and Practice of Safety Risk Assessment for Highway Tunnel Engineering. China Communications Press Co., Ltd.]()
 [Xue, Y., & Li, Y. (2018). Construction device and method for waterproof layer of mountain tunnel lining (China Patent No. CN 105736020 B). China National Intellectual Property Administration.]()
 [Li, X., Xue, Y., Li, Y., & Gao, J. (2017). Web-based construction safety risk assessment platform system for bridge, tunnel and slope engineering (V1.0) [Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2017SR309309.]()
@@ -43,14 +51,6 @@ My research interest includes neural machine translation and computer vision. I 
 [Li, Y., Xue, Y., & Jiao, J. (2016). Indexes sifting of rockburst prediction using soft science technology. In ISRM EUROCK (pp. ISRM-EUROCK). ISRM.]()
 [Li, Y., & Xue, Y. (2016). Evaluation of rockburst risk based on modified Delphi method. 6th Asian-Pacific Symposium on Structural Reliability and its Applications (APSSRA2016), 552-558.]()
 [Li, Y., Xue, Y., Yue, L. & Chen, B. (2015). Displacement Prediction of Deep Foundation Pit Based on Genetic Algorithms and BP Neural Network. Chinese Journal of Underground Space and Engineering, 1(S2):741-749.]()
-
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
