@@ -7,15 +7,15 @@
 
 # Site Settings
 title                    : "Yanjie Li"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Senior Engineer"
 repository               : "yanjyeli/yanjyeli.github.io"
-google_scholar_stats_use_cdn : false
+google_scholar_stats_use_cdn : true
 
 # google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+google_analytics_id      : "G-PXTH4HZLRZ"
 
 # SEO Related
-google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
+google_site_verification : "R5AVvzaGneoh8glnffz964YzsQ3DQLFyhav8fEjeko0"
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yanjie Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "ECEPDI"
+  bio              : #"ECEPDI"
   location         : "Shanghai, China"
-  employer         :
+  employer         : "ECEPDI"
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "yanjyeli@gmail.com"
