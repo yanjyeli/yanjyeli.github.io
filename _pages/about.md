@@ -40,6 +40,19 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+## 专著：高速公路隧道工程安全风险评估理论与实践
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Book 2018</div><img src='images/book2018.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Theory and Practice of Safety Risk Assessment for Highway Tunnel Engineering](docs/book2018.pdf)
+
+Yadong Xue, Hongwei Huang, Yongyi Wang, **Yanjie Li**
+
+[**Project**](https://baike.baidu.com/item/%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E9%9A%A7%E9%81%93%E5%B7%A5%E7%A8%8B%E9%A3%8E%E9%99%A9%E8%AF%84%E4%BC%B0%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5/60937213) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div>
+
 - [Xue, Y., Huang, H., Wang, Y., & Li, Y. (2018). Theory and Practice of Safety Risk Assessment for Highway Tunnel Engineering. China Communications Press Co., Ltd.]()
 - [Xue, Y., & Li, Y. (2018). Construction device and method for waterproof layer of mountain tunnel lining (China Patent No. CN 105736020 B). China National Intellectual Property Administration.]()
 - [Li, X., Xue, Y., Li, Y., & Gao, J. (2017). Web-based construction safety risk assessment platform system for bridge, tunnel and slope engineering (V1.0) [Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2017SR309309.]()
@@ -47,7 +60,7 @@ My research interest includes neural machine translation and computer vision. I 
 - [Li, X., Xue, Y., Huang, H., & Li, Y. (2017). Web-based safety risk visualization system for tunnel and slope engineering during construction period (V1.0) [Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2017SR292683.]()
 - [Li, X., Xue, Y., Li, Y., & Zhang, S. (2017). Web-based safety risk assessment platform system for preliminary design of tunnel engineering (V1.0) [Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2017SR304540.]()
 - [Fu, X., Xue, Y., & Li, Y. (2017). A Study on Web-Based Tunnel Construction Risk Visualizations. Modern Tunnelling Technology, 54(1): 160-167.]()
-- [Gao, J., Xue, Y., & Li, Y. (2017). Indexes selecting of tunnel deformation prediction using support vector machine. In ISRM Young Scholars Symposium on Rock Mechanics (pp. ISRM-YSS). ISRM.]()
+- [Gao, J., Xue, Y., & wLi, Y. (2017). Indexes selecting of tunnel deformation prediction using support vector machine. In ISRM Young Scholars Symposium on Rock Mechanics (pp. ISRM-YSS). ISRM.]()
 - [Li, Y., Xue, Y., & Jiao, J. (2016). Indexes sifting of rockburst prediction using soft science technology. In ISRM EUROCK (pp. ISRM-EUROCK). ISRM.]()
 - [Li, Y., & Xue, Y. (2016). Evaluation of rockburst risk based on modified Delphi method. 6th Asian-Pacific Symposium on Structural Reliability and its Applications (APSSRA2016), 552-558.]()
 - [Li, Y., Xue, Y., Yue, L. & Chen, B. (2015). Displacement Prediction of Deep Foundation Pit Based on Genetic Algorithms and BP Neural Network. Chinese Journal of Underground Space and Engineering, 1(S2):741-749.]()
