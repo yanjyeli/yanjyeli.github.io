@@ -40,16 +40,16 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-## 专著：高速公路隧道工程安全风险评估理论与实践
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Book 2018</div><img src='images/book2018.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Theory and Practice of Safety Risk Assessment for Highway Tunnel Engineering](docs/book2018.pdf)
+[Theory and Practice of Safety Risk Assessment for Highway Tunnel Engineering](https://github.com/yanjyeli/yanjyeli.github.io/blob/main/docs/book2018.pdf)
 
 Yadong Xue, Hongwei Huang, Yongyi Wang, **Yanjie Li**
 
-[**Project**](https://baike.baidu.com/item/%E9%AB%98%E9%80%9F%E5%85%AC%E8%B7%AF%E9%9A%A7%E9%81%93%E5%B7%A5%E7%A8%8B%E9%A3%8E%E9%99%A9%E8%AF%84%E4%BC%B0%E7%90%86%E8%AE%BA%E4%B8%8E%E5%AE%9E%E8%B7%B5/60937213) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Establishes a complete theoretical system for highway tunnel safety risk assessment
+- Develops an internet-based intelligent cloud system for risk management
+- Provides practical solutions with massive cases and engineering applications
 </div>
 </div>
 
