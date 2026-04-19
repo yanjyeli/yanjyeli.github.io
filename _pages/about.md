@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Senior Engineer at East China Electric Power Design Institute Co., Ltd. of China Power Engineering Consulting Group, holding a Master of Architectural and Civil Engineering from Tongji University, where I specialized in geotechnical engineering, tunnel mechanics, and probabilistic risk analysis. My research focuses on safety risk assessment and intelligent management for underground and tunnel engineering, with particular emphasis on machine learning-driven predictive modeling, numerical simulation, and data-driven decision-making for complex geotechnical challenges. I have authored and co-authored over ten research outputs, including peer-reviewed journal articles published in leading venues such as Modern Tunnelling Technology and proceedings of ISRM EUROCK and the Asian-Pacific Symposium on Structural Reliability, a co-authored book on safety risk assessment for highway tunnel engineering, a granted invention patent for mountain tunnel waterproofing technology, and four registered software systems for web-based construction safety risk evaluation. I have led technical design and oversight for more than 50 major power transmission and cable line projects, and have been recognized with the titles of "Quality Technology Expert" and "Outstanding Engineer." I am passionate about bridging advanced computational methods with engineering practice to enhance the safety, reliability, and resilience of critical infrastructure.
+I am a Senior Engineer at [East China Electric Power Design Institute Co., Ltd. of China Power Engineering Consulting Group](http://en.ecepdi.ceec.net.cn/) <img src='./images/ecepdi_logo.png' style="width: 10em;">, holding a Master of Architectural and Civil Engineering from [Tongji University](https://en.tongji.edu.cn/p/#/) <img src='./images/tongji_logo.png' style="width: 10em;">, where I specialized in geotechnical engineering, tunnel mechanics, and probabilistic risk analysis. My research focuses on safety risk assessment and intelligent management for underground and tunnel engineering, with particular emphasis on machine learning-driven predictive modeling, numerical simulation, and data-driven decision-making for complex geotechnical challenges. I have authored and co-authored over ten research outputs, including peer-reviewed journal articles published in leading venues such as Modern Tunnelling Technology and proceedings of ISRM EUROCK and the Asian-Pacific Symposium on Structural Reliability, a co-authored book on safety risk assessment for highway tunnel engineering, a granted invention patent for mountain tunnel waterproofing technology, and four registered software systems for web-based construction safety risk evaluation. I have led technical design and oversight for more than 50 major power transmission and cable line projects, and have been recognized with the titles of "Quality Technology Expert" and "Outstanding Engineer." I am passionate about bridging advanced computational methods with engineering practice to enhance the safety, reliability, and resilience of critical infrastructure.
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -40,6 +40,19 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Monograph 2018</div><img src='images/monograph2018.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Theory and Practice of Safety Risk Assessment for Highway Tunnel Engineering](https://github.com/yanjyeli/yanjyeli.github.io/blob/main/docs/monograph2018.pdf)
+
+Yadong Xue, Hongwei Huang, Yongyi Wang, **Yanjie Li**
+
+- Establishes a complete theoretical system for highway tunnel safety risk assessment
+- Develops an internet-based intelligent cloud system for risk management
+- Provides practical solutions with massive cases and engineering applications
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Book 2018</div><img src='images/book2018.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -53,7 +66,8 @@ Yadong Xue, Hongwei Huang, Yongyi Wang, **Yanjie Li**
 </div>
 </div>
 
-- [Xue, Y., Huang, H., Wang, Y., & Li, Y. (2018). Theory and Practice of Safety Risk Assessment for Highway Tunnel Engineering. China Communications Press Co., Ltd.]()
+
+
 - [Xue, Y., & Li, Y. (2018). Construction device and method for waterproof layer of mountain tunnel lining (China Patent No. CN 105736020 B). China National Intellectual Property Administration.]()
 - [Li, X., Xue, Y., Li, Y., & Gao, J. (2017). Web-based construction safety risk assessment platform system for bridge, tunnel and slope engineering (V1.0) [Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2017SR309309.]()
 - [Li, X., Xue, Y., Li, Y., Zhao, F., & Yang, R. (2017). Web-based expert questionnaire system (V1.0) [Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2017SR311052.]()
