@@ -34,4 +34,4 @@ I am a Senior Engineer at [East China Electric Power Design Institute Co., Ltd. 
 
 # 📖 Educations
 - *2014.09 - 2017.06*, Master of Architectural and Civil Engineering, Tongji University, Shanghai. 
-- *2010.09 - 2017.06*, Bachelor of Civil Engineering, Shijiazhuang Tiedao University, Shijiazhuang.
+- *2010.09 - 2014.06*, Bachelor of Civil Engineering, Shijiazhuang Tiedao University, Shijiazhuang.
