@@ -19,9 +19,7 @@ redirect_from:
 
 I am a Senior Engineer at [East China Electric Power Design Institute Co., Ltd. of China Power Engineering Consulting Group](http://en.ecepdi.ceec.net.cn/), holding a Master of Architectural and Civil Engineering from [Tongji University](https://en.tongji.edu.cn/p/#/), where I specialized in geotechnical engineering, tunnel mechanics, and probabilistic risk analysis. My research focuses on safety risk assessment and intelligent management for underground and tunnel engineering, with particular emphasis on machine learning-driven predictive modeling, numerical simulation, and data-driven decision-making for complex geotechnical challenges. I have authored and co-authored over ten research outputs, including peer-reviewed journal articles published in leading venues such as Modern Tunnelling Technology and proceedings of ISRM EUROCK and the Asian-Pacific Symposium on Structural Reliability, a co-authored book on safety risk assessment for highway tunnel engineering, a granted invention patent for mountain tunnel waterproofing technology, and four registered software systems for web-based construction safety risk evaluation. I have led technical design and oversight for more than 50 major power transmission and cable line projects, and have been recognized with the titles of "Quality Technology Expert" and "Outstanding Engineer." I am passionate about bridging advanced computational methods with engineering practice to enhance the safety, reliability, and resilience of critical infrastructure.
 
-
 # 📝 Publications 
-
 - [Xue, Y., Huang, H., Wang, Y., & Li, Y. (2018). Theory and Practice of Safety Risk Assessment for Highway Tunnel Engineering. China Communications Press Co., Ltd.](https://xueshu.baidu.com/ndscholar/browse/detail?paperid=1d520ck0hh7a00k0jb5k0mh0rp566102&site=xueshu_se)
 - [Xue, Y., & Li, Y. (2018). Construction device and method for waterproof layer of mountain tunnel lining (China Patent No. CN 105736020 B). China National Intellectual Property Administration.]()
 - [Li, X., Xue, Y., Li, Y., & Gao, J. (2017). Web-based construction safety risk assessment platform system for bridge, tunnel and slope engineering (V1.0) [Computer software]. National Copyright Administration of the People's Republic of China. Registration No. 2017SR309309.]()
@@ -35,5 +33,5 @@ I am a Senior Engineer at [East China Electric Power Design Institute Co., Ltd. 
 - [Li, Y., Xue, Y., Yue, L. & Chen, B. (2015). Displacement Prediction of Deep Foundation Pit Based on Genetic Algorithms and BP Neural Network. Chinese Journal of Underground Space and Engineering, 1(S2):741-749.](https://xueshu.baidu.com/ndscholar/browse/detail?paperid=660be2839b66e188127c7152ceebadfc&site=xueshu_se)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2014.09 - 2017.06*, Master of Architectural and Civil Engineering, Tongji University, Shanghai. 
+- *2010.09 - 2017.06*, Bachelor of Civil Engineering, Shijiazhuang Tiedao University, Shijiazhuang.
